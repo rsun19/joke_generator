@@ -4,7 +4,7 @@ import psycopg2
 from decouple import config
 
 conn = psycopg2.connect(
-        host="139.144.135.247",
+        host="localhost",
         database="joke",
         user=config('USER'),
         password=config('PASSWORD')
