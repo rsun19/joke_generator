@@ -1,3 +1,7 @@
 /.venv
 /api_postgres/__pycache__
 .env
+thingstokeepinmind.txt
+.gitignore
+edit_clean.py
+clean_secondpass.py
